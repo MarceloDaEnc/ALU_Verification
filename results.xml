@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1761944714" />
-    <testcase name="ULATest" classname="tests.test_ULA" file="/home/vonbraunlabs/.pyenv/versions/3.12.0/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="19" time="6.768610239028931" sim_time_ns="5307540.001" ratio_time="784140.2907787248" />
-  </testsuite>
-</testsuites>
